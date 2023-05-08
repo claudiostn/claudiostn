@@ -1,7 +1,7 @@
 <div>
   <img align="right" alt="avatar" src="https://avatars.githubusercontent.com/u/104396817?v=4" width="200">
   
-  <h3>Oi, me chamo Cláudio✨</h3>
+  <h3>Oi, me chamo Cláudio e tenho 21 anos✨</h3>
   
   <br>
   
