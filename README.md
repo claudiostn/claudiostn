@@ -1,16 +1,19 @@
 <div>
+  <img align="right" alt="avatar" src="https://avatars.githubusercontent.com/u/104396817?v=4" width="200">
+  
   <h3>Oi, me chamo Cláudio✨</h3>
-</div>
+  
+  <br>
+  
+  <div>
+    
+  💼 No momento estou trabalhando de Assistente Administrativo, mas espero um dia conseguir ser Desenvolvedor Web;
 
-<br>
+  📘 Atualmente estou cursando Engenharia da Computação na Universidade Federal de Sergipe;
 
-<div>
-
-💼 No momento estou trabalhando de Assistente Administrativo, mas espero um dia conseguir ser Desenvolvedor Web;
-
-📘 Atualmente estou cursando Engenharia da Computação na Universidade Federal de Sergipe;
-
-📗Também estou aprendendo Front-end;
+  📗Também estou aprendendo Front-end;
+    
+  </div>
 </div>
 
 <hr>
@@ -31,6 +34,7 @@
 
 <div align="center">
   <h3>📞 Contato</h3>
+  
   <a href="https://www.linkedin.com/in/claudiostn/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
