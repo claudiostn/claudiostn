@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3>📞 Contato</h3>
-  <a href="https://www.linkedin.com/in/cl%C3%A1udio-santana-99aab526b/" target="_blank">
+  <a href="https://www.linkedin.com/in/claudiostn/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
