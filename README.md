@@ -7,7 +7,7 @@
   
   <div>
     
-  💼 No momento estou trabalhando de Assistente Administrativo, mas espero um dia conseguir ser Desenvolvedor Web;
+  💼 No momento estou trabalhando como Assistente Administrativo, mas espero um dia conseguir ser Desenvolvedor Web;
 
   📘 Atualmente estou cursando Engenharia da Computação na Universidade Federal de Sergipe;
 
