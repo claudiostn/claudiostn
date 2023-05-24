@@ -1,18 +1,15 @@
 <div>
-  <img align="right" alt="avatar" src="https://avatars.githubusercontent.com/u/104396817?v=4" width="200">
-  
-  <h3>Oi, me chamo Cláudio ✨</h3>
+  <h1 align="center">Oi 👋, me chamo Cláudio</h3>
   
   <br>
   
   <div>
     
-  💼 No momento estou trabalhando como Assistente Administrativo, mas espero um dia conseguir ser Desenvolvedor Web;
-
-  📘 Atualmente estou cursando Engenharia da Computação na Universidade Federal de Sergipe;
-
-  📗Também estou aprendendo Front-end;
-    
+  <ul>
+    <li>💼 Atualmete trabalho como Assistente Administrativo</li>
+    <li>📚 Estou cursando Engenharia da Computação na Universidade Federal de Sergipe</li>
+    <li>📗 Também estou estudando Front-end</li>
+  </ul>
   </div>
 </div>
 
