@@ -6,9 +6,8 @@
   <div>
     
   <ul>
-    <li>💼 Atualmete trabalho como Assistente Administrativo</li>
     <li>📚 Estou cursando Engenharia da Computação na Universidade Federal de Sergipe</li>
-    <li>📗 Também estou estudando Front-end</li>
+    <li>🖥️ Também estou estudando Frontend</li>
   </ul>
   </div>
 </div>
